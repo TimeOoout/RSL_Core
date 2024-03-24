@@ -5,6 +5,7 @@
 
 
 > 正在开发中
+> 与RSL同步更新
 
 
 * 基于[Golang](https://golang.google.cn/)的新一代MineCraft启动器！ 
